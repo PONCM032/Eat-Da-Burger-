@@ -25,3 +25,15 @@ h1 {
 h2 {
   text-align: center;
 }
+
+body {
+  background-color: rgba(216, 216, 22, 0.87);
+}
+
+#bkgImage {
+  background-image: url("/assets/Images/background.png");
+}
+
+#logo {
+  align-content: center;
+}
