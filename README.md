@@ -22,7 +22,7 @@ This site was can be found in the following [GitHub repository](https://github.c
 
 ## Usage
 
-Deployed on Heroku
+Deployed on [Heroku](https://damp-stream-07979.herokuapp.com/).
 
 ---
 
