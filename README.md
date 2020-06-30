@@ -21,6 +21,9 @@ This site was can be found in the following [GitHub repository](https://github.c
 ---
 
 ## Usage
+Please see gif below for demo of website.
+
+![](https://github.com/PONCM032/Eat-Da-Burger-/blob/master/assets/Images/Demo.gif)
 
 Deployed on [Heroku](https://damp-stream-07979.herokuapp.com/).
 
